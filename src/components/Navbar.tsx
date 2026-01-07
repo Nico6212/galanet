@@ -1,4 +1,4 @@
-import Button from "./button";
+import Button from "./Button";
 import Recherche from "./Recherche";
 import Logo from "./Logo"; export default function Navbar() { 
     return ( 
